@@ -1,0 +1,65 @@
+﻿  Main.cpp
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\Main.cpp(1,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\Main.cpp : message : см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\Main.cpp(56,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\Main.cpp(63,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\Main.cpp(80,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\Main.cpp(102,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\Main.cpp(169,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\Main.cpp(209,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\Main.cpp(250,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\Main.cpp(28,10): warning C4101: person: неиспользованная локальная переменная
+  functions.cpp
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\Main.cpp(27,9): warning C4101: plane: неиспользованная локальная переменная
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(85,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(95,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(297,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(302,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(267,40): warning C4101: i: неиспользованная локальная переменная
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(267,28): warning C4101: num: неиспользованная локальная переменная
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(346,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(356,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(375,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(331,23): warning C4101: majCount: неиспользованная локальная переменная
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(331,43): warning C4101: polCount: неиспользованная локальная переменная
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(331,33): warning C4101: podCount: неиспользованная локальная переменная
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(396,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(417,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(485,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(512,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(552,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(560,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(507,10): warning C4101: plane: неиспользованная локальная переменная
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(504,41): warning C4101: i: неиспользованная локальная переменная
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(504,29): warning C4101: num: неиспользованная локальная переменная
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(608,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(634,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(658,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(671,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(683,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(627,11): warning C4101: person: неиспользованная локальная переменная
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(710,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(793,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(880,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(883,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(884,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(898,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(899,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(913,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(914,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(928,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(929,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(955,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(958,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(959,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(973,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(974,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(988,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(989,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(1003,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(1004,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(1018,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(1019,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\functions.cpp(1059,16): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  lab2.vcxproj -> D:\диск Ц\БГУИР\lab4-master\lab4-master\lab2\Debug\lab2.exe
